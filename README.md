@@ -1,4 +1,4 @@
-# 2022-nodeLineBot-test-2
+# 食譜搜尋
 
 ## 說明
 
@@ -8,7 +8,9 @@
   - 預設為第一頁 ex:蜂蜜
   - 搜尋二頁以上(食材名稱 頁數) ex:蜂蜜 2
 
-## lineQrcode
+## lineBotQrcode
+
+![Qrcode](https://qr-official.line.me/sid/L/599emgee.png)
 
 ## lineBot 存放位置
 
