@@ -8,9 +8,10 @@
   - 預設為第一頁 ex:蜂蜜
   - 搜尋二頁以上(食材名稱 頁數) ex:蜂蜜 2
 
-## lineBotQrcode
+## lineBot
 
-![Qrcode](https://qr-official.line.me/sid/L/599emgee.png)
+![Qrcode](./599emgee.png)  
+ID：@599emgee
 
 ## lineBot 存放位置
 
