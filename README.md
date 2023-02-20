@@ -11,7 +11,7 @@
 ## lineBot
 
 ![Qrcode](./599emgee.png)  
-ID：@599emgee
+[ID：@599emgee](https://lin.ee/5nSlCrD)
 
 ## lineBot 存放位置
 
